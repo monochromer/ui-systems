@@ -5,23 +5,4 @@
 
 ## Внести вклад
 
-Любые Pull Request приветствуются.
-Для создания новой записи, нужно создать папку с говорящим названием, например,
-"Some-company-design-system" или "Design-token-tutorial", внутри папки `src/data` и файл `index.md` в ней в следующем формате:
-
-```yaml
----
-name: some-name # Имя системы
-owner: some-company # название компании-разработчика системы или автора системы/статьи/руководства
-tags: # один или несколько из
-  - system # содержит дизайн-систему
-  - components # содержит набор компонентов
-  - article # представляет из себя статью/руководство
-link: https://url.com # ссылка на ресурс
-code: https://code.com # ссылка на код
-logo: https://logo.url #ссылка на логотип системы
----
-
-# краткое описание  системы
-some short description 
-```
+Смотрите [файл CONTRIBUTING.md](CONTRIBUTING.md)
